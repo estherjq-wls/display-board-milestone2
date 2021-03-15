@@ -1,0 +1,8 @@
+*
+3
+timeslip
+10 10
+20 50
+ud
+noWr
+rot-90
